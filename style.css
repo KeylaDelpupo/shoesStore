@@ -1,0 +1,34 @@
+
+* {
+    box-sizing: border-box;
+}
+
+ #imagem {
+position: absolute;
+width: 209px;
+height: 104px;
+left: 19px;
+top: 9px;
+    }
+
+.itens{
+display: flex;
+justify-content: flex-end;
+align-items: flex-end;
+}
+
+
+img{
+position: absolute;
+width: 1280px;
+height: 235px;
+left: 0px;
+top: 122px;
+
+}
+
+h1{
+color: #0000
+
+
+}
